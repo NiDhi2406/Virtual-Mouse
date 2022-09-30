@@ -1,0 +1,5 @@
+PACKAGES :
+1. opencv
+2. mediapipe
+3. pyautogui
+4. webcam
